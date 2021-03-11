@@ -1,5 +1,5 @@
 Project - 1
-Clone of wCat command, as found in BASH, MacOS. 
+Clone of 'cat' command, as found in BASH, MacOS. 
 Includes a main file(WCat.js), which should be passed a list of commands and a list of filepaths.
 
 Possible commands:
