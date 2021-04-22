@@ -3,7 +3,7 @@ Clone of 'cat' command, as found in BASH, MacOS.
 Includes a main file(WCat.js), which should be passed a list of commands and a list of filepaths.
 
 Possible commands:
-1. -s : Replaces big line breaks and sisplays the content of the given file on the terminal
+1. -s : Replaces big line breaks and displays the content of the given file on the terminal
 2. -n : Add numbering to all the lines
 3. -b : Add numbering to only non empty lines
 Note: -n and -b are mutually exclusive.
