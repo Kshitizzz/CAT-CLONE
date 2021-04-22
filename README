@@ -1,14 +1,14 @@
-Project - 1
-Clone of 'cat' command, as found in BASH, MacOS. 
-Includes a main file(WCat.js), which should be passed a list of commands and a list of filepaths.
+# Clone of 'cat' command, as found in BASH, MacOS.
 
-Possible commands:
+* Includes a main file(WCat.js), which should be passed a list of commands and a list of filepaths.
+
+## Possible commands:
 1. -s : Replaces big line breaks and displays the content of the given file on the terminal
 2. -n : Add numbering to all the lines
 3. -b : Add numbering to only non empty lines
 Note: -n and -b are mutually exclusive.
 
-Files included:
+## Files included:
 1. wCat.js (main)
 2. displayContent.js 
 3. replaceLineBreaks.js
